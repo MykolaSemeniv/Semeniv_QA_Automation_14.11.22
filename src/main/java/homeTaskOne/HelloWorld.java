@@ -9,8 +9,5 @@ public class HelloWorld {
         System.out.println(text1);
         System.out.println(text2);
         System.out.println(text3);
-
-        char g = 1;
-
     }
 }
